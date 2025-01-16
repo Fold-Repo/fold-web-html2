@@ -1,5 +1,5 @@
 {
-  "name": "html-tailwind-css-starter-pack",
+  "name": "fold-ecommerce",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thepranaygupta/html-tailwind-css-starter-pack.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/thepranaygupta/html-tailwind-css-starter-pack/issues"
-  },
-  "homepage": "https://github.com/thepranaygupta/html-tailwind-css-starter-pack#readme",
+  "homepage": "",
   "devDependencies": {
     "autoprefixer": "^10.4.13",
     "postcss": "^8.4.21",
